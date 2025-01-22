@@ -1,0 +1,7 @@
+C:\Users\marin\source\repos\Conversii ASC\Conversii ASC\bin\Debug\Conversii ASC.exe.config
+C:\Users\marin\source\repos\Conversii ASC\Conversii ASC\bin\Debug\Conversii ASC.exe
+C:\Users\marin\source\repos\Conversii ASC\Conversii ASC\bin\Debug\Conversii ASC.pdb
+C:\Users\marin\source\repos\Conversii ASC\Conversii ASC\obj\Debug\Conversii ASC.csproj.AssemblyReference.cache
+C:\Users\marin\source\repos\Conversii ASC\Conversii ASC\obj\Debug\Conversii ASC.csproj.CoreCompileInputs.cache
+C:\Users\marin\source\repos\Conversii ASC\Conversii ASC\obj\Debug\Conversii ASC.exe
+C:\Users\marin\source\repos\Conversii ASC\Conversii ASC\obj\Debug\Conversii ASC.pdb
